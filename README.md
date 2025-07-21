@@ -1,5 +1,5 @@
 # ✍️ About Me:
-🚀 I am currently pursuing a degree in Information Science & Engineering at AJIET.  <br>💻 I am enthusiastic about continuous learning and applying my knowledge to solve real-world problems.  <br>🌱 Currently learning Full Stack Development.<br>
+🚀 I am currently pursuing a degree in Information Science & Engineering at AJIET.  <br>💻 I am enthusiastic about continuous learning and applying my knowledge to solve real-world problems.  <br>🌱 Currently learning Java Full Stack Development.<br>
 
 
 ## 🌐 Socials:
