@@ -5,7 +5,12 @@
 🚀 I am currently pursuing a degree in Information Science & Engineering at AJIET.  <br>💻 I am enthusiastic about continuous learning and applying my knowledge to solve real-world problem.  <br>🌱 Currently learning DevOps and Frontend Development <br>
 
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Lavanyapoojary&theme=monokai&hide_border=true)<br/>![](https://github-readme-stats.vercel.app/api?username=Lavanyapoojary&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)<br/>
+## 📊 GitHub Stats:
+
+![](https://nirzak-streak-stats.vercel.app/?user=Lavanyapoojary&theme=monokai&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api?username=Lavanyapoojary&theme=monokai&hide_border=true&include_all_commits=true&count_private=true)
+
 
  ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lavanya-amin-077619331) 
