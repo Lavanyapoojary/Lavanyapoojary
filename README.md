@@ -4,8 +4,7 @@
 
 🚀 I am currently pursuing a degree in Information Science & Engineering at AJIET.  <br>💻 I am enthusiastic about continuous learning and applying my knowledge to solve real-world problem.  <br>🌱 Currently learning DevOps and Frontend Development <br>
 
-## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Lavanyapoojary&theme=monokai&hide_border=true)<br/>![](https://github-readme-stats.vercel.app/api?username=Lavanyapoojary&theme=monokai&hide_border=true&include_all_commits=false&count_private=false)<br/>
+# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=Lavanyapoojary&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Lavanyapoojary&theme=monokai&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lavanyapoojary&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact) --- [![](https://visitcount.itsvg.in/api?id=Lavanyapoojary&icon=0&color=0)](https://visitcount.itsvg.in) <!-- Proudly created with GPRM ( https://gprm.itsvg.in )
 
 
  ## 🌐 Socials:
